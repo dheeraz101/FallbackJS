@@ -44,3 +44,7 @@ Add one script tag to your main HTML file:
 
 ```html
 <script src="https://fallbackjs.netlify.app/fallback.min.js"></script>
+
+---
+
+<a href="https://www.buymeacoffee.com/dheeraz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
